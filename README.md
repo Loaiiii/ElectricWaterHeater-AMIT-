@@ -99,6 +99,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Acknowledgments
 
-- Giza Systems for the internship opportunity and support.
+- AMIT for the Training opportunity and support.
 - AVR-GCC community for the tools and resources.
 - Labcenter Electronics for the Proteus Design Suite.
