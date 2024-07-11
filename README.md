@@ -19,11 +19,11 @@ This project implements a controller for an Electric Water Heater. The controlle
 - `ADC.h`: Contains declarations for ADC initialization and reading functions.
 - `Buttons.h`: Contains declarations for button initialization and reading functions.
 - `EEPROM.h`: Contains declarations for EEPROM read/write functions.
-- `Heat_Cool_Element.h`: Contains declarations for controlling the heating and cooling elements.
+- `Heat_Cool_Att.h`: Contains declarations for controlling the heating and cooling elements.
 - `LED.h`: Contains declarations for LED control functions.
 - `SevenSeg.h`: Contains declarations for seven-segment display functions.
 - `std_macros.h`: Contains common macros used throughout the project.
-- `System.h`: Contains declarations for system initialization and control functions.
+- `Sys.h`: Contains declarations for system initialization and control functions.
 - `sys_config.h`: Contains configuration settings and definitions.
 - `timers.h`: Contains declarations for timer initialization and interrupt handling functions.
 
@@ -32,11 +32,11 @@ This project implements a controller for an Electric Water Heater. The controlle
 - `ADC.c`: Implements ADC initialization and reading functions.
 - `Buttons.c`: Implements button initialization and reading functions.
 - `EEPROM.c`: Implements EEPROM read/write functions.
-- `Heat_Cool_Element.c`: Implements control functions for heating and cooling elements.
+- `Heat_Cool_Att.c`: Implements control functions for heating and cooling elements.
 - `LED.c`: Implements LED control functions.
 - `SevenSeg.c`: Implements functions for controlling the seven-segment display.
 - `main.c`: Contains the main function and overall program logic.
-- `System.c`: Implements system initialization and control functions.
+- `Sys.c`: Implements system initialization and control functions.
 - `timers.c`: Implements timer initialization and interrupt handling functions.
 
 ### Simulation Files
