@@ -57,11 +57,11 @@ This project implements a controller for an Electric Water Heater. The controlle
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/electric-water-heater-controller.git
+    git clone https://github.com/yourusername/ElectricWaterHeater-AMIT.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd electric-water-heater-controller
+    cd ElectricWaterHeater-AMIT
     ```
 3. Compile the code using `make`:
     ```sh
