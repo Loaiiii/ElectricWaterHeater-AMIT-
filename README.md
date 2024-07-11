@@ -95,7 +95,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Authors
 
-- **Mloai** - Initial work
+- **LOAI Muhammed Tamer** - Initial work
 
 ## Acknowledgments
 
